@@ -1,0 +1,27 @@
+source:
+  url: https://github.com/Essenceia/Until_Heat_Death_Do_Us_Part
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf0p3
+  slot: tt_um_coldbrew
+  project: Until heat death do us part
+  size: 2x2
+  kind: digital (Verilog)
+  commit: 3fd08e8647205630c3b21e053cb0213181be7f14
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf0p3/tt_um_coldbrew
+  branch: tapeout/tinytapeout/ttgf0p3/tt_um_coldbrew
+  page: https://app.tinytapeout.com/shuttles/ttgf0p3
+generated: '2026-10-17T23:37:09Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf0p3/tt_um_coldbrew
+- upstream/main
+- upstream/ws_run2
